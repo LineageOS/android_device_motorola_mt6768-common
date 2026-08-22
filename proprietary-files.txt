@@ -1,8 +1,5 @@
 # Unpinned blobs from motorola/lamu_g/lamu:15/VVTA35.51-137/7eabca:user/release-keys
 
-# AEE
-vendor/lib64/libaedv.so
-
 # Audio
 system/lib64/av-audio-types-aidl-V1-ndk.so:system/lib64/av-audio-types-aidl-V3-ndk.so;FIX_SONAME
 system_ext/bin/hw/android.hardware.audio.parameter_parser.service
@@ -278,9 +275,6 @@ vendor/lib64/vendor.mediatek.hardware.clientapi-V1-ndk.so
 vendor/lib64/vendor.mediatek.hardware.rcs-V1-ndk.so
 vendor/lib64/vendor.mediatek.hardware.rcs@2.0.so
 vendor/lib64/vendor.mediatek.hardware.videotelephony-V1-ndk.so;MODULE_SUFFIX=_vendor
-
-# Ladder
-vendor/lib64/libladder.so
 
 # Keymint
 vendor/bin/hw/android.hardware.security.keymint@3.0-service.trustonic
