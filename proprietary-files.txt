@@ -567,8 +567,6 @@ vendor/lib64/liboemcrypto.so
 vendor/lib64/liburee_meta_drmkeyinstall.so
 
 # Wi-Fi
-vendor/bin/wlan_assistant
-vendor/etc/init/init.wlan_drv.rc
 vendor/etc/init/wlan_assistant.rc
 vendor/etc/wifi/p2p_supplicant_overlay.conf
 vendor/etc/wifi/wpa_supplicant.conf
