@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9b101d53_db89e976",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 571,
+      "author": {
+        "id": 32620
+      },
+      "writtenOn": "2026-08-27T10:46:59Z",
+      "side": 0,
+      "message": "I am pretty sure you meant to drop wlan_assistant.rc instead.",
+      "range": {
+        "startLine": 571,
+        "startChar": 0,
+        "endLine": 571,
+        "endChar": 32
+      },
+      "revId": "2cfb82112191225c7f19c7a8b8a56f88191f7028",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
