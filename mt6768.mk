@@ -204,7 +204,8 @@ PRODUCT_PACKAGES += \
     libmtkperf_client_vendor \
     libperfctl_vendor \
     libpowerhalwrap \
-    libpowerhalwrap_vendor
+    libpowerhalwrap_vendor \
+    vendor.mediatek.hardware.mtkpower-service.stub
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/power/powerhint.json:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.json
