@@ -225,6 +225,10 @@ PRODUCT_PACKAGES += \
     mdota_symlink
 
 PRODUCT_PACKAGES += \
+    Iwlan \
+    QualifiedNetworksService
+
+PRODUCT_PACKAGES += \
     android.software.ipsec_tunnels.prebuilt.xml
 
 PRODUCT_PACKAGES += \
