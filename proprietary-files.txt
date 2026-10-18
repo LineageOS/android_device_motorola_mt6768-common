@@ -215,7 +215,6 @@ vendor/lib64/vendor.mediatek.hardware.apmonitor-V1-ndk.so
 vendor/lib64/vendor.mediatek.hardware.apmonitor@2.0.so
 vendor/lib64/vendor.mediatek.hardware.gnss-V2-ndk.so
 vendor/lib64/vendor.mediatek.hardware.lbs-V1-ndk.so
-vendor/lib64/vendor.mediatek.hardware.lbs@1.0.so
 
 # IMS
 system_ext/bin/vtservice
@@ -538,7 +537,6 @@ vendor/lib64/vendor.mediatek.hardware.mtkradioex.sim-V2-ndk.so
 vendor/lib64/vendor.mediatek.hardware.mtkradioex.smartratswitch-V1-ndk.so
 vendor/lib64/vendor.mediatek.hardware.mtkradioex.voice-V1-ndk.so
 vendor/lib64/vendor.mediatek.hardware.netdagent-V1-ndk.so
-vendor/lib64/vendor.mediatek.hardware.netdagent@1.0.so
 
 # Sensors
 vendor/lib64/hw/sensors.mt6768.so
