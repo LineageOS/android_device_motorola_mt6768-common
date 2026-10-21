@@ -16,6 +16,24 @@
       "message": "On hold until https://review.lineageos.org/c/LineageOS/android_hardware_mediatek/+/506926 and https://review.lineageos.org/c/LineageOS/android_hardware_mediatek/+/506928 get merged.",
       "revId": "db58d1f8c85864b3d034ad8b70c290295ef1e0a1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8191b291_0164ca5c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32620
+      },
+      "writtenOn": "2026-10-21T22:32:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ac086687_24a43ffb",
+      "revId": "db58d1f8c85864b3d034ad8b70c290295ef1e0a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
