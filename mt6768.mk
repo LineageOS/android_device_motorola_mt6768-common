@@ -291,7 +291,8 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/lineage/interfaces/power-libperfmgr \
     hardware/mediatek \
     hardware/mediatek/libion_mtk \
-    hardware/mediatek/libmtkperf_client
+    hardware/mediatek/libmtkperf_client \
+    hardware/mediatek/wlan/wifi_hal
 
 # Thermal
 PRODUCT_PACKAGES += \
@@ -333,14 +334,14 @@ PRODUCT_PACKAGES += \
     vndservicemanager
 
 # Wi-Fi
-$(call soong_config_set_bool,mediatek_wifi_hal,use_pre_baklava_qpr0_struct,true)
-
 PRODUCT_PACKAGES += \
     android.hardware.wifi-service \
     hostapd \
-    libwifi-hal-wrapper \
     wlan_assistant \
     wpa_supplicant
+
+PRODUCT_PACKAGES += \
+    wpa_supplicant.conf
 
 PRODUCT_PACKAGES += \
     android.hardware.wifi.direct.prebuilt.xml \

@@ -604,9 +604,7 @@ vendor/lib64/liburee_meta_drmkeyinstall.so
 # Wi-Fi
 vendor/etc/init/init.wlan_drv.rc
 vendor/etc/wifi/p2p_supplicant_overlay.conf
-vendor/etc/wifi/wpa_supplicant.conf
 vendor/etc/wifi/wpa_supplicant_overlay.conf
 vendor/firmware/WIFI_RAM_CODE_soc1_0_1a_1.bin
 vendor/firmware/WMT_SOC.cfg
 vendor/firmware/wifi.cfg
-vendor/lib64/libwifi-hal.so:vendor/lib64/libwifi-hal-mtk.so;FIX_SONAME
