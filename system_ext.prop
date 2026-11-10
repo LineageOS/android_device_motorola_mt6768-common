@@ -13,3 +13,8 @@ sys.brightness.disable_gamma_conversion=true
 ro.vendor.mtk_telephony_add_on_policy=0
 vendor.rild.libargs=-d /dev/ttyC0
 vendor.rild.libpath=mtk-ril.so
+
+# Wi-Fi
+wifi.direct.interface=p2p0
+wifi.interface=wlan0
+wifi.tethering.interface=ap0
