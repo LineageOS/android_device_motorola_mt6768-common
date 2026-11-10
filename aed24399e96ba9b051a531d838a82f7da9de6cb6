@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "63f7b30b_f371d70c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24442
+      },
+      "writtenOn": "2026-11-10T21:40:31Z",
+      "side": 1,
+      "message": "Depends over https://review.lineageos.org/q/topic:%22mtk-wpa_supplicant_8%22",
+      "revId": "aed24399e96ba9b051a531d838a82f7da9de6cb6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
