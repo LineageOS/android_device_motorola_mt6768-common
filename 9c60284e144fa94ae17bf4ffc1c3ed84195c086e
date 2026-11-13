@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0aa6720_2b3a2ba4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32620
+      },
+      "writtenOn": "2026-11-13T01:14:24Z",
+      "side": 1,
+      "message": "Works as expected. On hold until the required changes get merged.",
+      "revId": "9c60284e144fa94ae17bf4ffc1c3ed84195c086e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
