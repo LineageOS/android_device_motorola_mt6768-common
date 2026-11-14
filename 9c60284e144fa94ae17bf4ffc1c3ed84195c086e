@@ -33,6 +33,24 @@
       "message": "why separate it out from the above definitions?",
       "revId": "9c60284e144fa94ae17bf4ffc1c3ed84195c086e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a68283c_cd0ca4d5",
+        "filename": "mt6768.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 344,
+      "author": {
+        "id": 24442
+      },
+      "writtenOn": "2026-11-14T08:48:07Z",
+      "side": 1,
+      "message": "I organize things by its type. It\u0027s a config, not a service / daemon.",
+      "parentUuid": "905c4cd5_72e27871",
+      "revId": "9c60284e144fa94ae17bf4ffc1c3ed84195c086e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
